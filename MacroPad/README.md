@@ -1,4 +1,6 @@
+# CircuitPython
 Adafruit Projects
+
 
 KeyCode Examples
 
@@ -16,4 +18,4 @@ Blue = 0x000040
 
 White = 0x101010
 
-Purple =
+Purple = 

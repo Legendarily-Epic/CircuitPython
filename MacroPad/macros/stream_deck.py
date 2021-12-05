@@ -12,8 +12,8 @@ app = {                       # REQUIRED dict, must be named 'app'
         (0x101010, 'Side', [Keycode.ALT,'3',-Keycode.ALT]),
         # 2nd row ----------
         (0x400000, 'Desktop', [Keycode.ALT,'d',-Keycode.ALT]),
-        (0x000040, '', [Keycode.ALT,'2',-Keycode.ALT]),
-        (0x101010, '', [Keycode.ALT,'3',-Keycode.ALT]),
+        (0x000040, '', []),
+        (0x101010, '', []),
         # 3rd row ----------
         (0x400000, 'Intro', [Keycode.ALT,'7',-Keycode.ALT]),
         (0x000040, 'BRB', [Keycode.ALT,'9',-Keycode.ALT]),
